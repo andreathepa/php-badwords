@@ -7,7 +7,7 @@
 
     
 
-    echo str_replace('cacca', '***', $concat)."<br />";
+    echo str_replace('cacca', '***', $concat)."<br /><br />";
 
     echo strlen($concat);
 
