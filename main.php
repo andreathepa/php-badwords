@@ -8,7 +8,8 @@
     
 
     echo str_replace('cacca', '***', $concat)."<br /><br />";
+    
 
-    echo strlen($concat);
+    echo $length_word = 'La lunghezza totale dei caratteri è pari a'." ".strlen($concat);
 
 ?>
