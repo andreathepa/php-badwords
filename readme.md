@@ -1,1 +1,1 @@
-Scrivendo la parola 'cacca' il testo viene sostiuito da '***'
+Scrivere nel primo campo la parola che si vuole censurare, all'invio verranno stampati testo originale, parola censurata, testo censurato, insieme al conteggio totale dei caratteri.
