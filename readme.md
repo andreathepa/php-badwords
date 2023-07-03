@@ -1,1 +1,1 @@
-Se viene scritta la parola 'cacca' il testo viene sostiuito da '***'
+Scrivendo la parola 'cacca' il testo viene sostiuito da '***'
